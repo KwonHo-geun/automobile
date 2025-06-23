@@ -5,6 +5,7 @@
 4. [설치 방법](#설치-방법)
 5. [기본 회로도 - 추가예정](#기본-회로도)
 6. [코드 예시 - 추가예정](#코드-예시)
+7. [코랩 연동](#코렙-연동)
 
 
 ## 프로젝트 소개
@@ -37,3 +38,8 @@ Programming Language - Python3, C++(GPU)
 pip install pyserial
 pip install opencv-python
 ```
+
+## 코랩 연동
+
+1. 코랩 로그인 이후 -> 파일-> Github사본 저장 -> github 로그인 이후 연동
+2. 연동 이후 repo지정 이후, repo이름으로 저장 
