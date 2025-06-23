@@ -23,7 +23,9 @@ Python Library를 활용한 Car IMAGE Detection 프로그램 개발
 ## 기술 스택
 
 모델 - YOLOv12 Transfor Learning
+
 임베디드 보드 - Jetson Orin Nano
+
 Programming Language - Python3, C++(GPU)
 
 ---
