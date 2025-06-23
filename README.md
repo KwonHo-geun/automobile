@@ -12,3 +12,5 @@
 - 1. github 확인
   2. wsl2에서 동작확인
      - 동작완료 시 pull
+     - pull 완료
+     - push 실행
