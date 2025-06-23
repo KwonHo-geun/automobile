@@ -18,3 +18,7 @@
 ```
 git clone https://github.com/KwonHo-geun/automobile.git/
 ```
+
+```
+sudo apt install tensorflow
+```
