@@ -14,6 +14,7 @@
      - 동작완료 시 pull
      - pull 완료
      - push 실행
+
 '''
 git clone https://github.com/KwonHo-geun/automobile.git/
 '''
