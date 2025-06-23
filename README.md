@@ -1,24 +1,4 @@
-# 2025-06-23 start
-## 2025-06-23 start
-### 2025-06-23 start
-#### 2025-06-23 start
-##### 2025-06-23 start
-
-**굵게 **
-*기울임*
-~~할거많네~~
-'코드처럼'
-
-- 1. github 확인
-  2. wsl2에서 동작확인
-     - 동작완료 시 pull
-     - pull 완료
-     - push 실행
-
-```
-git clone https://github.com/KwonHo-geun/automobile.git/
-```
-
-```
-sudo apt install tensorflow
-```
+## 목차
+1. [프로젝트 소개](#프로젝트-소개)
+2. [구성도](#구성도)
+3. [기술 스택](#기술-스택)
