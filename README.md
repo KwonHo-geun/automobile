@@ -28,5 +28,10 @@ Programming Language - Python3, C++(GPU)
 
 ---
 
+## 설치 방법
 
-##
+#Python Library install
+```
+pip install pyserial
+pip install opencv-python
+```
