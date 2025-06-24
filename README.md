@@ -6,6 +6,8 @@
 5. [기본 회로도 - 추가예정](#기본-회로도)
 6. [코드 예시 - 추가예정](#코드-예시)
 7. [코랩 연동](#코렙-연동)
+8. [GitHub](#Github) 
+9. [MarkDown](#MarkDown)
 
 
 ## 프로젝트 소개
@@ -43,3 +45,69 @@ pip install opencv-python
 
 1. 코랩 로그인 이후 -> 파일-> Github사본 저장 -> github 로그인 이후 연동
 2. 연동 이후 repo지정 이후, repo이름으로 저장 
+
+
+## GitHub
+
+1. Github 로그인 - https://github.com 에서 로그인
+2. 프로필 사진, 소개글 추가
+3. Github웹에선 Create repository를 눌러 내 첫 프로젝트 만들기
+4. linux.ver Github repo create
+```
+sudo apt update && sudo apt install gh
+gh auth login
+gh repo create [reponame] [-v]
+
+```
+5. 기존 디렉토리
+```
+cd my-projectfoler
+git init #이미 Git이 설치되어있다는 기준으로
+
+git add [filename] or [.]
+git commit -m "Initial commit"
+
+gh repo create --personal --private --source=. --remote=origin --push #private
+gh repo create --personal --public --source=. --remote=origin --push #personal
+```
+
+## MarkDown
+
+1. 글자 크기 조정
+
+# H1 제목
+## H2 제목
+### H3 제목
+#### H4 제목
+##### H5 제목
+###### H6 제목
+
+2. 텍스트 서식
+
+3. 순서 없는 목록
+
+- 항목 1
+- 항목 2
+ - 하위 항목 2.1
+ - 하위 항목 2.2
+
+4. 체크박스 목록
+
+- [ ] 미완료 작업
+- [x] 완료된 작업
+
+5. 인용문
+
+> 이것은 인용문입니다.
+> 여러 줄로 작성 가능합니다.
+>> 중첩 인용문
+
+6. 다이어그램
+
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
