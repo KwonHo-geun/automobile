@@ -115,7 +115,9 @@ graph TD;
 7. 이미지
 ![image](https://github.com/user-attachments/assets/dd444ae9-c57a-4d13-b63a-a4e6c7515df8)
 
+
 10. 배운 내용
+
 1. About Python3
 [Python basic](https://github.com/jetsonmom/git_test_markdown_sample/blob/main/docs/python3.md)
 2. data structure / data sciencs
