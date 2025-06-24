@@ -116,36 +116,36 @@ graph TD;
 ![image](https://github.com/user-attachments/assets/dd444ae9-c57a-4d13-b63a-a4e6c7515df8)
 
 10. 배운 내용
-1. About Python3
-Python basic
+1. About Python3[
+Python basic](https://github.com/jetsonmom/git_test_markdown_sample/blob/main/docs/python3.md)
 2. data structure / data sciencs
-데이터 구조 개요
-Pandas
-Numpy
-Matplotlib
-3. Machine Learning
-Machine Learning Basic
-모델 훈련 및 평가
-4. OpenCV
-OpenCV Basic
-이미지 처리
-5. CNN(Convolution Neural Network
-CNN_Basic
-CNN_자율주행 관련 코드
-6. Ultralytics
-Ultralytics_Basic
-YOLOv8
-YOLOv12
-7. TensorRT vs PyTorch
-PyTorch_Basic
-TensorRT
-YOLOv12
-8. TAO Toolkit on RunPod
-TAO_사용법
-TAO_Toolkit
-9. 칼만필터, CARLA, 경로 알고리즘
-kalman
-CARLA_simulator
-10. ADAS & (ADAS TensorRT vs PyTorch)
-adas_basic
-TensorRT vs PyTorch 비교
+[데이터 구조 개요](https://github.com/jetsonmom/git_test_markdown_sample/blob/main/data_structures.md)
+[Pandas](https://github.com/jetsonmom/git_test_markdown_sample/blob/main/pandas.md)
+[Numpy](https://github.com/jetsonmom/git_test_markdown_sample/blob/main/numpy.md)
+[Matplotlib](https://github.com/jetsonmom/git_test_markdown_sample/blob/main/Matplotlib.md)
+4. Machine Learning
+[Machine Learning Basic](https://github.com/jetsonmom/git_test_markdown_sample/blob/main/ml_basic.md)
+[모델 훈련 및 평가](https://github.com/jetsonmom/git_test_markdown_sample/blob/main/ml_test.md)
+5. OpenCV
+[OpenCV Basic](https://github.com/jetsonmom/git_test_markdown_sample/blob/main/OpenCV_basic.md)
+[이미지 처리](https://github.com/jetsonmom/git_test_markdown_sample/blob/main/image_test.md)
+6. CNN(Convolution Neural Network
+[CNN_Basic](https://github.com/jetsonmom/git_test_markdown_sample/blob/main/CNN_basic.md)[
+CNN_자율주행 관련 코드](https://github.com/jetsonmom/git_test_markdown_sample/blob/main/cnn_test.md)
+8. Ultralytics
+[Ultralytics_Basic](https://github.com/jetsonmom/git_test_markdown_sample/blob/main/Ultralytics_basic.md)
+[YOLOv8](https://github.com/jetsonmom/git_test_markdown_sample/blob/main/YOLOv8_test.md)
+[YOLOv12](https://github.com/jetsonmom/git_test_markdown_sample/blob/main/YOLOv12_test.md)
+11. TensorRT vs PyTorch
+[PyTorch_Basic](https://github.com/jetsonmom/git_test_markdown_sample/blob/main/PyTorch_basic.md)
+[TensorRT](https://github.com/jetsonmom/git_test_markdown_sample/blob/main/TensorRT_test.md)
+[YOLOv12](https://github.com/jetsonmom/git_test_markdown_sample/blob/main/YOLOv12_test.md)
+12. TAO Toolkit on RunPod
+[TAO_사용법](https://github.com/jetsonmom/git_test_markdown_sample/blob/main/.TAO_install.md)
+[TAO_Toolkit](https://github.com/jetsonmom/git_test_markdown_sample/blob/main/.TAO_Toolkit.md)
+13. 칼만필터, CARLA, 경로 알고리즘
+[kalman](https://github.com/jetsonmom/git_test_markdown_sample/blob/main/.kalman.md)
+[CARLA_simulator](https://github.com/jetsonmom/git_test_markdown_sample/blob/main/.CARLA.md)
+14. ADAS & (ADAS TensorRT vs PyTorch)
+[adas_basic](https://github.com/jetsonmom/git_test_markdown_sample/blob/main/.adas_basic.md)
+[TensorRT vs PyTorch 비교](https://github.com/jetsonmom/git_test_markdown_sample/blob/main/.vs.md)
