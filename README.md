@@ -111,3 +111,5 @@ graph TD;
     B-->D;
     C-->D;
 ```
+7. 이미지
+![image](https://github.com/user-attachments/assets/dd444ae9-c57a-4d13-b63a-a4e6c7515df8)
