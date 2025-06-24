@@ -8,6 +8,7 @@
 7. [코랩 연동](#코렙-연동)
 8. [GitHub](#Github) 
 9. [MarkDown](#MarkDown)
+10. [배운 내용](#배운-내용)
 
 
 ## 프로젝트 소개
@@ -113,3 +114,38 @@ graph TD;
 ```
 7. 이미지
 ![image](https://github.com/user-attachments/assets/dd444ae9-c57a-4d13-b63a-a4e6c7515df8)
+
+10. 배운 내용
+1. About Python3
+Python basic
+2. data structure / data sciencs
+데이터 구조 개요
+Pandas
+Numpy
+Matplotlib
+3. Machine Learning
+Machine Learning Basic
+모델 훈련 및 평가
+4. OpenCV
+OpenCV Basic
+이미지 처리
+5. CNN(Convolution Neural Network
+CNN_Basic
+CNN_자율주행 관련 코드
+6. Ultralytics
+Ultralytics_Basic
+YOLOv8
+YOLOv12
+7. TensorRT vs PyTorch
+PyTorch_Basic
+TensorRT
+YOLOv12
+8. TAO Toolkit on RunPod
+TAO_사용법
+TAO_Toolkit
+9. 칼만필터, CARLA, 경로 알고리즘
+kalman
+CARLA_simulator
+10. ADAS & (ADAS TensorRT vs PyTorch)
+adas_basic
+TensorRT vs PyTorch 비교
